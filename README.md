@@ -1,6 +1,3 @@
-### DİSCORD BUTON ROL ALTYAPISI ⚡ https://discord.gg/HMTHAqCTCz
---------
+### Discord-Button-Roles-V13
 
-## KURULUM;
-
-`Shelle Gelip node app.js yazarak botu aktif edebilirsiniz ROL_ID 🆔 yazan yerlere rol id girin ve prefixi ayarlayın bu kadar 🤙 `
+app.js deki kodu maine atın, buton.js komutlar kısmına atın kendi handlerınıza göre ayarlayın
